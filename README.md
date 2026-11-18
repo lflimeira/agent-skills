@@ -61,3 +61,11 @@ skills/
 └── <skill-name>/
     └── SKILL.md
 ```
+
+## Contributing
+
+Feedback, issues and pull requests are welcome.
+
+## License
+
+[MIT](LICENSE)
